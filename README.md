@@ -44,6 +44,8 @@ This UX design project for the Gym Training Website aims to create an engaging, 
 Happy designing! ✨
 
 ---
+![Capture](https://github.com/santhosh801/fitzonegym/assets/146916164/69270cf5-8bf8-4204-8703-314f95908ffe)
+
 
 Feel free to reach out for any questions or further clarifications. 📧
 
